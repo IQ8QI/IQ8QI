@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IQ8QI
-- 👀 I’m interested in being frontend web developer
-- 🌱 I’m currently learning HTML CSS JS AngularJS
+- 👀 I’m interested in being data scientist
+- 🌱 I’m currently learning Python and NumPy
 - 💞️ I’m looking to collaborate on projects to train above technologies
 - 📫 How to reach me ...
 
