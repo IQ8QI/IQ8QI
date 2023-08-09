@@ -24,7 +24,7 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IQ8QI)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IQ8QI&theme=dark)](https://git.io/streak-stats)
 
 
 
