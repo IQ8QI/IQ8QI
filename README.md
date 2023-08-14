@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartłomiej Konecki
 - 👀 I’m interested in programming and Free Software (free like in freedom)
-- 🌱 I’m currently learning Java by writing an [Number-converter](https://github.com/IQ8QI/Number-converter) utility.
+- 🌱 I’m currently learning Java by writing an [Terminal-Chess](https://github.com/IQ8QI/Terminal-Chess) game, also I consider writing to the Android..
 - 💞️ I’m looking to collaborate on projects to train Java.
 - 📫 You can reach me by mail or LinkedIn
 
