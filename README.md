@@ -12,14 +12,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg"/>
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"/>
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,java,github,linux,vim)](https://skillicons.dev)
 
 ---
 ### :fire: My Stats :
