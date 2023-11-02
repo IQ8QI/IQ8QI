@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bartłomiej Konecki
 - 👀 I’m interested in programming and Free Software (free like in freedom)
-- 🌱 I’m currently learning Java by writing an [Terminal-Chess](https://github.com/IQ8QI/Terminal-Chess) game, also I consider writing to the Android..
-- 💞️ I’m looking to collaborate on projects to train Java.
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me by mail or LinkedIn
 
 <div>
@@ -26,6 +25,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IQ8QI&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IQ8QI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <h4>Codewars learning platform</h4><img src="https://www.codewars.com/users/IQ8QI/badges/large"/>
+</div>
 
 
 <!---
