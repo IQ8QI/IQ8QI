@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartłomiej Konecki
 - 👀 I’m interested in programming and Free Software (free like in freedom)
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Data Analysis
 - 📫 You can reach me by mail or LinkedIn
 
 <div>
@@ -12,7 +12,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,vscode,github,git,linux,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,vscode,github,git,linux)](https://skillicons.dev)
 
 ---
 ### :fire: My Stats :
