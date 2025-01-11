@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartłomiej Konecki
 - 👀 I’m interested in programming and Free Software (free like in freedom)
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently wirting polynomial library in c++
 - 📫 You can reach me by mail or LinkedIn
 
 <div>
